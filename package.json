@@ -1,0 +1,14 @@
+{
+  "name": "webscrappr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juan clot",
+  "license": "ISC",
+  "dependencies": {
+    "website-scraper": "^3.3.2"
+  }
+}
